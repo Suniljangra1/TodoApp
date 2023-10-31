@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid black;
+    /* height: 400px; */
+    /* width: 400px; */
+    padding: 20px;
+    border-radius: 12px;
+}
+.input{
+    font-size: 20px;
+    border-radius: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.inp{
+    border-radius: 15px;
+    margin-left: 12px;
+}
+.htag{
+   
+    border: 2px solid black;
+    border-radius: 22px;
+}
